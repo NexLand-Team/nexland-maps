@@ -1,2 +1,2 @@
 # nexland-maps
-self explanatory
+upload any or all of your avalible maps to this repo
